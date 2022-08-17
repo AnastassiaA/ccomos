@@ -1,2 +1,2 @@
 # ccomos
-Person Assistant Chatbot 
+Personal Assistant Chatbot 
